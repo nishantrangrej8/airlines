@@ -1,0 +1,3 @@
+airlines:
+  application:
+    endpoint: http://locahost:8080
